@@ -1,6 +1,4 @@
 # maven-startup
 maven startup
 
-1
-2
-3
+SINGLE - 1
