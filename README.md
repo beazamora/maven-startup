@@ -6,3 +6,4 @@ DOUBLE - 2
 TRIPLE - 3
 QUAD - 4
 Penta -5
+Six - 6
