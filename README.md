@@ -1,6 +1,6 @@
 # maven-startup
 maven startup
 
-1
-2
-3
+SINGLE - 1
+DOUBLE - 2
+TRIPLE - 3
